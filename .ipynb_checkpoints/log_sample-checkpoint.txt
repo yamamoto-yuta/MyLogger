@@ -1,8 +1,0 @@
-ロギング 開始
-例外を記録 ここから↓
-Traceback (most recent call last):
-  File "sample.py", line 22, in <module>
-    raise ValueError('テスト バリューエラー')
-ValueError: テスト バリューエラー
-ここまで↑
-ロギング 終わり
